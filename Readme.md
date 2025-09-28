@@ -39,6 +39,7 @@ This application facilitates the organization of Qur’an circles (halaqat) and 
 3. Record student progress (e.g., memorized surahs, recited ayat, excuses for a day, etc...).
 4. Edit student progress history when needed.
 5. Add daily notes/comments for each student.
+6. Can Edit/View progress offline without needing internet access.
 
 ### Parent
 
